@@ -6,10 +6,10 @@ import {
   faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 
-import wave from "../assets/wave.svg";
-import wave2 from "../assets/wave2.svg";
-import wave3 from "../assets/wave3.svg";
-import blob from "../assets/blob.svg";
+import wave from "../../assets/wave.svg";
+import wave2 from "../../assets/wave2.svg";
+import wave3 from "../../assets/wave3.svg";
+import blob from "../../assets/blob.svg";
 import { faUser } from "@fortawesome/free-regular-svg-icons";
 const Card = () => {
   return (
